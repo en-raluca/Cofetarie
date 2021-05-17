@@ -1,0 +1,10 @@
+COCONUT_1, CoconutCake, 250, flour; eggs; baking powder, 02/05/2021, 10/05/2021, 13, true, VEGETARIAN, 30.00, 10
+RASPBERRY_2,RaspBerryCake, 300, cake floor; sugar; eggs; buttermilk, 18/05/2021, 23/05/2021,12, true, FRUITS, 25.00, 6
+LEMON_3, LemonCake, 400, lemon; butter; vanilla extract, 26/04/2021, 05/05/2021,10, true, FRUITS, 55.00, 12
+CARAMEL_4, CaramelCake, 200, sour cream; butter; vanilla; brown sugar, 01.05.2021, 23.05.2021,9, false, CARAMEL, 23.00, 9
+BLUEBERRY_5, BlueberryCake, 220, blueberries; salt; sugar; vanilla, 23/04/2021, 05/05/2021,5, true, FRUITS,50.00, 4
+APPLE_6, AppleCale, 410, apple; cinnamon; eggs; milk, 03/05/2021, 23/05/2021, 12,true, FRUITS, 26.00, 15
+ORANGE_7, OrangeCake, 120, orange juice; milk; butter, 07/05/2021, /28/05/2021, 14, true, FRUITS, 56.00, 8
+PEACH_8, PeachCake, 500, butter; brown sugar; peaches; salt, 12/05/2021, 01/06/2021,7, false, FRUITS, 66.00, 8
+WHITE CHOCOLATE_9, WhiteChocolateCake, 400, milk; white chocolate; baking powder, 03/05/2021, 29/05/2021,8, true,CHOCOLATE, 35.00, 12
+BANANA_10, BananaCake, 700, bananas; flour; milk; sugar, 23/04/2021, 03/05/2021,11, true,  FRUITS, 17.00, 15

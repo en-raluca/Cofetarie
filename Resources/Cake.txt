@@ -1,0 +1,10 @@
+CHOCO_12,Chocolate Cake, 200, eggs; milk;  chocolate; cocoa,  15/05/2021, 21/05/2021, 10, true, CHOCOLATE, 15.00
+BUTTER_13, ButterCake,300, milk; butter; biscuit; baking powder, 03/04/2021, 27/05/2021,7, true, VEGETARIAN, 10.00
+CHEESECAKE_14, CheeseCake, 250, cheese cream; eggs ; flour, 20/04/2020, 05/05/2020, 13, false, CHEESECAKE, 13.00
+CARROT_15, CarrotCake, 400, carrot;  baking soda; flour vanilla; oil, 01/04/2021, 06/05/2021, 5, true, VEGETARIAN, 15.00
+YOGURT_16, YogurtCake, 350, yogurt; sugar; eggs,  03/04/2021, 23/05/2021, 0, false, VEGETARIAN, 23.00
+STRAWBERRY_17, StrawberryCake,280, strawberries; cake flour; salt; milk, 07/04/2021, 08/05/2021, 14,true ,FRUITS, 20.00
+VANILLA_18, VanillaCake, 400, flour; eggs; sugar; vanilla extract, 07/05/2021, 12/05/2021, 6, true, VEGETARIAN, 18.00
+BISCUIT_19, BiscuitCake, 295, eggs; biscuits; sugar, 23/04/2021, 20/05/2021, 8, true, VEGETARIAN, 15.00
+RED VELVET CAKE, RedVelvetCake, 500, cocoa ;red food coloring; cream cheese, 02/05/2021, 25/05/2021, 3, true, FRUITS, 30.00
+COFFEE_20, CoffeeCake,420, coffee; butter; eggs, 01/05/2021, 20/05/2021, 2, true, VEGETARIAN, 23.00
